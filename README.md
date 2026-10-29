@@ -1,7 +1,7 @@
 # BuildOffice Pro
 
-**GitHub description:** Desktop management suite for construction companies, with projects, accounting, expenses, staff, documents, reporting, and an integrated local AI assistant.
-
+**GitHub description:**
+Desktop management suite for construction companies, with projects, accounting, expenses, staff, documents, reporting, and an integrated local AI assistant.
 BuildOffice Pro brings day-to-day construction administration into one desktop application. Its modules cover project records and progress, company and staff administration, expenses and accounting, documents, attendance, payroll, procurement, vehicles, debts, and reports. A local application-aware assistant helps users explore the program and ask questions about its structure and available business data.
 
 ## Highlights
