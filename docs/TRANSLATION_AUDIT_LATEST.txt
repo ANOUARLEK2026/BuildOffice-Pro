@@ -1,0 +1,125 @@
+English catalog keys: 2028
+Arabic catalog keys:  2054
+Missing/blank Arabic keys: 0
+Uncatalogued static UI literals: 1
+Uncatalogued literal translate_text calls: 0
+Dynamic UI/translation calls requiring pattern review: 110
+
+STATIC UI LITERALS:
+dev_tools/dev_manager.py | 326 | setPlaceholderText | Examples:
+D('100000') * D('19') / D('100')
+amount(tx.amount_ht) + D('2500')
+tx.project_id
+
+
+DYNAMIC CALLS:
+BuildOffice Pro.py | 617 | translate_text(f-string)
+BuildOffice Pro.py | 620 | translate_text(f-string)
+BuildOffice Pro.py | 722 | setText
+BuildOffice Pro.py | 759 | setText
+BuildOffice Pro.py | 896 | translate_text(f-string)
+BuildOffice Pro.py | 360 | setText
+BuildOffice Pro.py | 823 | translate_text(f-string)
+BuildOffice Pro.py | 554 | translate_text(f-string)
+BuildOffice Pro.py | 788 | translate_text(f-string)
+core/automation_ui.py | 91 | translate_text(f-string)
+core/automation_ui.py | 70 | translate_text(f-string)
+dev_tools/ui_color_inspector.py | 871 | setText
+dev_tools/ui_color_inspector.py | 918 | setText
+dev_tools/ui_color_inspector.py | 1008 | setText
+dev_tools/ui_color_inspector.py | 1174 | setText
+dev_tools/ui_color_inspector.py | 889 | setText
+dev_tools/ui_color_inspector.py | 891 | setText
+dev_tools/ui_color_inspector.py | 1093 | setText
+dev_tools/dev_manager.py | 213 | setText
+dev_tools/dev_manager.py | 821 | setText
+dev_tools/visual_dev_kit.py | 1001 | setText
+dev_tools/visual_dev_kit.py | 1018 | setText
+dev_tools/visual_dev_kit.py | 1033 | setText
+dev_tools/visual_dev_kit.py | 1063 | setText
+dev_tools/visual_dev_kit.py | 1071 | setText
+dev_tools/visual_dev_kit.py | 1137 | setText
+dev_tools/visual_dev_kit.py | 1338 | setText
+pages/construction_control_page.py | 198 | addItem
+pages/construction_control_page.py | 143 | addItem
+pages/project_control_page.py | 94 | addItem
+pages/attendance_page.py | 696 | translate_text(f-string)
+pages/attendance_page.py | 845 | setText
+pages/attendance_page.py | 846 | setText
+pages/attendance_page.py | 667 | translate_text(f-string)
+pages/income_page.py | 95 | translate_text(f-string)
+pages/income_page.py | 130 | translate_text(f-string)
+pages/staff_page.py | 69 | translate_text(f-string)
+pages/staff_page.py | 113 | translate_text(f-string)
+pages/statistics_page.py | 438 | translate_text(f-string)
+pages/management_page.py | 35 | translate_text(f-string)
+pages/management_page.py | 43 | addItem
+pages/management_page.py | 55 | translate_text(f-string)
+pages/management_page.py | 114 | translate_text(f-string)
+pages/management_page.py | 92 | translate_text(f-string)
+pages/management_page.py | 98 | translate_text(f-string)
+pages/metre_page.py | 66 | translate_text(f-string)
+pages/metre_page.py | 110 | translate_text(f-string)
+pages/metre_page.py | 113 | translate_text(f-string)
+pages/metre_page.py | 132 | translate_text(f-string)
+pages/settings_page.py | 881 | translate_text(f-string)
+pages/settings_page.py | 967 | translate_text(f-string)
+pages/projects_page.py | 2821 | translate_text(f-string)
+pages/projects_page.py | 2963 | translate_text(f-string)
+pages/projects_page.py | 3002 | translate_text(f-string)
+pages/projects_page.py | 3824 | setText
+pages/projects_page.py | 2164 | translate_text(f-string)
+pages/projects_page.py | 2219 | translate_text(f-string)
+pages/projects_page.py | 2226 | translate_text(f-string)
+pages/projects_page.py | 2256 | translate_text(f-string)
+pages/projects_page.py | 2354 | translate_text(f-string)
+pages/projects_page.py | 2363 | translate_text(f-string)
+pages/projects_page.py | 2400 | translate_text(f-string)
+pages/projects_page.py | 2808 | translate_text(f-string)
+pages/projects_page.py | 2815 | translate_text(f-string)
+pages/projects_page.py | 2514 | translate_text(f-string)
+pages/projects_page.py | 4474 | translate_text(f-string)
+pages/projects_page.py | 4490 | translate_text(f-string)
+pages/progress_page.py | 241 | translate_text(f-string)
+pages/progress_page.py | 441 | translate_text(f-string)
+pages/progress_page.py | 362 | translate_text(f-string)
+pages/progress_page.py | 419 | translate_text(f-string)
+pages/progress_page.py | 421 | translate_text(f-string)
+pages/progress_page.py | 549 | setText
+pages/progress_page.py | 424 | translate_text(f-string)
+pages/documents_page.py | 527 | addItem
+pages/documents_page.py | 459 | translate_text(f-string)
+pages/documents_page.py | 793 | translate_text(f-string)
+pages/backup_page.py | 125 | translate_text(f-string)
+pages/backup_page.py | 191 | translate_text(f-string)
+pages/expense_payment_dialog.py | 223 | translate_text(f-string)
+pages/vehicles_page.py | 200 | addItem
+pages/vehicles_page.py | 247 | addItem
+pages/vehicles_page.py | 94 | addItem
+pages/vehicles_page.py | 128 | translate_text(f-string)
+pages/expenses_page.py | 340 | translate_text(f-string)
+pages/expenses_page.py | 341 | translate_text(f-string)
+pages/expenses_page.py | 342 | translate_text(f-string)
+pages/expenses_page.py | 686 | translate_text(f-string)
+pages/expenses_page.py | 687 | translate_text(f-string)
+pages/expenses_page.py | 688 | translate_text(f-string)
+pages/expenses_page.py | 689 | translate_text(f-string)
+pages/document_generation_page.py | 376 | addItem
+pages/document_generation_page.py | 395 | addItem
+pages/document_generation_page.py | 454 | translate_text(f-string)
+pages/document_generation_page.py | 210 | translate_text(f-string)
+pages/document_generation_page.py | 416 | addItem
+pages/document_generation_page.py | 438 | addItem
+pages/payroll_page.py | 46 | setText
+pages/payroll_page.py | 46 | setText
+pages/payroll_page.py | 46 | setText
+pages/payroll_page.py | 71 | setText
+pages/debts_page.py | 195 | translate_text(f-string)
+pages/debts_page.py | 225 | translate_text(f-string)
+pages/debts_page.py | 217 | translate_text(f-string)
+pages/expense_details_dialog.py | 98 | translate_text(f-string)
+pages/expense_details_dialog.py | 114 | translate_text(f-string)
+pages/expense_details_dialog.py | 211 | translate_text(f-string)
+pages/expense_dialog_form.py | 550 | translate_text(f-string)
+pages/project_closeout_page.py | 34 | addItem
+pages/project_closeout_page.py | 47 | translate_text(f-string)

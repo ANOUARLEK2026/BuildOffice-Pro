@@ -1,0 +1,85 @@
+﻿English source string,UI locations
++ Add supplementary work,supplementary_page.py:24
++ Create / update payroll,payroll_page.py:21
+Administrator,BuildOffice Pro.py:313
+Advance status,supplementary_page.py:26
+Analyze project,management_page.py:26
+Ask,management_page.py:25; ai_assistant_dialog.py:18
+"Ask: projects losing money, highest expenses, cash flow, what needs attention",management_page.py:25
+Backup & Safety,settings_page.py:459
+"Build today
+for a better tomorrow",projects_page.py:1031
+BuildOffice Pro • Operations & project control,BuildOffice Pro.py:235
+Cannot advance,supplementary_page.py:78
+Close project,project_closeout_page.py:25
+Close this project after final reconciliation?,project_closeout_page.py:55
+Confirm closure,project_closeout_page.py:55
+Confirm password,auth_dialogs.py:164
+Delay,management_page.py:110
+Delay days:,management_page.py:110
+Description:,supplementary_page.py:53
+Device ID: ,auth_dialogs.py:103
+Enable Developer Mode to use developer diagnostics.,settings_page.py:937
+Field,ai_assistant_dialog.py:20
+Financial Workflow,settings_page.py:447
+Generate built-in report,document_generation_page.py:236
+Generate management report,management_page.py:26; management_page.py:81
+Generate official document,document_generation_page.py:291
+"Good morning, Administrator",projects_page.py:1003
+Here's what's happening with your construction projects today.,projects_page.py:1013
+Include Supplementary Works,progress_page.py:119
+Invalid username or password.,auth_dialogs.py:245
+Just now,projects_page.py:2801
+LOCAL • DEV TOOL ERROR,settings_page.py:969
+LOCAL • DEVELOPER MODE OFF,settings_page.py:933
+Labor cost increase %:,management_page.py:112
+Labor increase,management_page.py:112
+License key,auth_dialogs.py:99
+Licensed to,auth_dialogs.py:202
+Management & Control,settings_page.py:435
+Management report,management_page.py:91; management_page.py:97
+Material increase,management_page.py:108
+Material price increase %:,management_page.py:108
+No active projects.,management_page.py:105
+No available Present attendance,construction_control_page.py:144
+No open project is available.,project_closeout_page.py:42
+No valued supplementary works are available for inclusion.,progress_page.py:368
+No visual data available,analytics_widgets.py:137
+Open templates folder,document_generation_page.py:328
+Password,auth_dialogs.py:159; auth_dialogs.py:217
+Passwords do not match.,auth_dialogs.py:183
+Pending valuation,supplementary_page.py:41
+Project Statistics,projects_page.py:161
+Project closed,project_closeout_page.py:58
+Project closeout,project_closeout_page.py:54; project_closeout_page.py:59
+Projects List,projects_page.py:1266
+Protect the local construction database and reduce accidental destructive changes.,settings_page.py:460
+Provide the final Word/Excel template before enabling generation.,document_generation_page.py:295
+Quick Actions,projects_page.py:221
+Recent & Favorite Projects • Ctrl+Shift+R,BuildOffice Pro.py:265
+Recent Activity,projects_page.py:193
+Recently,projects_page.py:2771; projects_page.py:2830
+Recommended defaults for situations and financial presentation.,settings_page.py:448
+Refresh intelligence,management_page.py:25
+Run final reconciliation,project_closeout_page.py:24
+Run reconciliation,management_page.py:26
+"Search by project name, authority, contract code…",projects_page.py:1127
+Supplementary Work,supplementary_page.py:51
+The project is not ready for closure.,project_closeout_page.py:54
+"Thresholds used by construction intelligence, reconciliation and operational alerts.",settings_page.py:436
+Unit price:,supplementary_page.py:63
+"Use New Project to register a contract.
+Double-click a row to edit.
+Archive preserves project history.",projects_page.py:2505
+Username,auth_dialogs.py:154; auth_dialogs.py:211
+View all,projects_page.py:197
+What-if,management_page.py:105
+What-if result,management_page.py:114
+What-if simulation,management_page.py:26
+Wholesale / lump-sum amount:,supplementary_page.py:66
+Word/Excel dependencies: READY,document_generation_page.py:357
+Work mode,supplementary_page.py:55
+Work mode:,supplementary_page.py:55
+▦  Cards,projects_page.py:1304
+▦  Table,projects_page.py:1289
+☀  Light,BuildOffice Pro.py:287
